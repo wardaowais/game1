@@ -1,0 +1,40 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+.character-form {
+  margin-bottom: 20px;
+}
+
+.attribute-row, .skill-allocation {
+  margin-bottom: 10px;
+}
+
+.attribute-control, .skill-check, .party-skill-check {
+  margin-top: 20px;
+}
+
+.attribute-control label, .skill-allocation label, .skill-check label, .party-skill-check label {
+  margin-right: 10px;
+}
+
+button {
+  margin: 5px;
+}
+
+.character-section {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  display: inline-block;
+}
+
+.class-display button {
+  margin: 5px;
+}
+
+.skill-check div, .party-skill-check div {
+  margin-top: 10px;
+}
